@@ -20,7 +20,7 @@
 ### Connect with Me:
 
 <a href="https://wa.me/201123399228" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Emadeldin-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/youssefemadeldin22" target="_blank"><img src="https://img.shields.io/badge/-Abdolrahman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/youssefemadeldin22" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20emadeldin-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
