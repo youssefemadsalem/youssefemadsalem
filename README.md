@@ -22,16 +22,13 @@
 <a href="https://wa.me/201123399228" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Emadeldin-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://t.me/youssefemadeldin22" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20emadeldin-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![angular](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-
----
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,css,html,md,postman,react,angular,bootstrap,cpp,js,ts,mongodb,nodejs,express,&perline=10" alt="Skills"/>
+  </a>
+</p>
+<br/>
+<div align="center">
