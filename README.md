@@ -31,4 +31,9 @@
   </a>
 </p>
 <br/>
+### github statistics
 <div align="center">
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=youssefemadsalem&theme=dark" alt="GitHub Streak" />
+</div>
+
+
