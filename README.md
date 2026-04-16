@@ -27,7 +27,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,css,html,tailwind,postman,react,angular,bootstrap,cpp,js,ts,mongodb,nodejs,express,apidog&perline=10" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,css,html,tailwind,postman,react,angular,bootstrap,cpp,js,ts,mongodb,nodejs,express,&perline=10" alt="Skills"/>
   </a>
 </p>
 <br/>
