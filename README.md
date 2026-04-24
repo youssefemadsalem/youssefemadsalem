@@ -22,28 +22,15 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/youssef-emad-al-deen-0b7923277)
 
 ### Connect with Me:
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; font-family: 'Segoe UI', Roboto, sans-serif; margin: 20px 0;">
-  
-  <a href="https://wa.me/201123399228" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #25D366; color: white; padding: 12px 24px; border-radius: 50px; display: flex; align-items: center; gap: 10px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1); cursor: pointer;" 
-         onmouseover="this.style.transform='translateY(-3px)'; this.style.box-shadow='0 8px 15px rgba(37, 211, 102, 0.3)';" 
-         onmouseout="this.style.transform='translateY(0)'; this.style.box-shadow='0 4px 6px rgba(0,0,0,0.1)';">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20" height="20" style="filter: brightness(0) invert(1);">
-      <span style="font-weight: 600; font-size: 15px;">WhatsApp</span>
-    </div>
+<p align="center">
+  <a href="https://wa.me/201123399228" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-
-  <a href="https://t.me/youssefemadeldin22" target="_blank" style="text-decoration: none;">
-    <div style="background-color: #0088cc; color: white; padding: 12px 24px; border-radius: 50px; display: flex; align-items: center; gap: 10px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1); cursor: pointer;" 
-         onmouseover="this.style.transform='translateY(-3px)'; this.style.box-shadow='0 8px 15px rgba(0, 136, 204, 0.3)';" 
-         onmouseout="this.style.transform='translateY(0)'; this.style.box-shadow='0 4px 6px rgba(0,0,0,0.1)';">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20">
-      <span style="font-weight: 600; font-size: 15px;">Telegram</span>
-    </div>
+  &nbsp;&nbsp;
+  <a href="https://t.me/youssefemadeldin22" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-
-</div>
+</p>
 
 ### 🛠 Languages and Tools:
 
